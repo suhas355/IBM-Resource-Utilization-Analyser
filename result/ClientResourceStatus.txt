@@ -1,0 +1,3 @@
+date N time-> 2012-02-23
+clientId->192.168.1.8         
+Resource status utiliztion->cpu util is low- Memory utilization is low- Reads exceeds thresholdWrites exceeds threshold- Network utilizaton is normal                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,4 @@
+PATH=/usr/sbin:/bin:/usr/bin
+JAVA_HOME=/usr/jdk1.6.0_25/bin
+CLASSPATH=$CLASSPATH:/home/ServerFarmAnalyser/lib/ifxjdbc.jar:/home/ServerFarmAnalyser/lib/ifxjdbcx.jar:/usr/jdk1.6.0_25/jre/lib/ext/ifxjdbcx.jar::/usr/jdk1.6.0_25/jre/lib/ext/ifxjdbc.jar
+5,15,25,35,45,55 * * * * /usr/jdk1.6.0_25/bin/java /home/ServerFarmAnalyser/InformixMain >>  /home/ServerFarmAnalyser/result/output.txt

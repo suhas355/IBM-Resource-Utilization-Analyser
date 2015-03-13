@@ -1,0 +1,7 @@
+IN client side in UBUNTU OS
+
+1. informixMain.java extracts resource information from client system
+and stores it in database present in server.
+2. informix.cron is a cron program used to run the above 
+informixMain.java periodically for every 10 minutes in background.
+(set cron file using cmd "crontab Informix.cron" in terminal.)

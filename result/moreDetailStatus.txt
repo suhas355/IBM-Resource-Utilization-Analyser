@@ -1,0 +1,43 @@
+Memory Information 
+ Time = 15:56:39
+Client ID = 192.168.1.8         
+Total Memory = 1975
+Used Memory = 1192
+ Active Memory = 581
+Inactive Memory = 508
+ Free memory = 783
+ Buffer Memory = 166
+ Status = low
+
+
+Cpu Information 
+ Time = 15:56:39
+Client ID = 192.168.1.8         
+% Usr = 2.15
+% Sys = 1.05
+ % Iowait = 0.25
+% Idle = 96.49
+ Status = low
+
+
+Disk Information 
+ Time = 15:56:39
+Client ID = 192.168.1.8         
+Disks = 27
+Reads = 29797
+ Partition = 11
+ Writes = 19665
+ Status = high
+
+
+Network Information 
+ Time = 15:56:39
+Client ID = 192.168.1.8         
+totalReceived = 35341
+Reads = 0
+ inputDiscarded = 0
+ inputDelivered = 34911
+Output Requests  34435
+ Status = normal
+
+

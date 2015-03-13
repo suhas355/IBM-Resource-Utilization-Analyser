@@ -1,0 +1,10 @@
+SERVER SIDE in windows 7 OS
+DETAILS
+
+1. server.java is the main program to extract information from 
+   database and  analyze the data.
+2. task.java is the program to fetch the warning message from table 
+   and store it in a file.
+3. bat file has to be assigned to windows task scheduler which is 
+   scheduled indefinitly and triggered periodically for every 
+   10 minutes
